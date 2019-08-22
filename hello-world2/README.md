@@ -16,6 +16,10 @@ or with a build script build.clj
 
     java -cp "cljs.jar;src" clojure.main build.clj
 
+auto build
+
+    java -cp "cljs.jar;src" clojure.main watch.clj
+
 Ask for help
 
     java -cp "cljs.jar;src" cljs.main --help

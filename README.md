@@ -8,3 +8,5 @@ Following an older version of the Clojurescrip quick start
     ./hello-world  # getting started
 
     ./hello-word2  # less boiler plate and auto builds
+
+    ./hello-world3  # Browser REPL
