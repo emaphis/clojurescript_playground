@@ -1,4 +1,4 @@
-(ns hello-world.core)
+(ns hello-world2.core)
 
 (enable-console-print!)
 
